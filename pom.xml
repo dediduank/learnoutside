@@ -14,7 +14,7 @@
 	<name>outside.learn</name>
 	<description>Sinau bareng</description>
 	<properties>
-		<java.version>13.0.9</java.version>
+		<java.version>1.8.0</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
